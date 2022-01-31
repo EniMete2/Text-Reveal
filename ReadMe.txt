@@ -1,0 +1,1 @@
+This is some more gsap practice for creating interesting text animations.
